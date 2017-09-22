@@ -1,0 +1,12 @@
+h1 {
+  color: black;
+}
+p {
+    font-size: 100%;
+}
+ol, dl {
+    margin-top: -15px;
+}
+ul {
+    margin-top: -20px;
+}    

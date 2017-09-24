@@ -749,9 +749,9 @@
 
 Логические операторы:
 
-| № п.п. | Оператор         | Описание                            | Действие |                                                                
-| ------ |*---------------* |------------------------------------ |----------
-|1       |<+>               |Логическое сложение.<br>Операция ИЛИ.|Отбираются данные, удовлетворяющие хотя бы одному из поставленных условий.|
+| № п.п. | Оператор        | Описание                            | Действие |                                                                
+| ------ |:---------------:|------------------------------------ |----------
+|1       |<+>              |Логическое сложение.<br>Операция ИЛИ.|Отбираются данные, удовлетворяющие хотя бы одному из поставленных условий.|
 |2       |<*>, <&>, <пробел>|Логическое умножение И.              |Отбираются данные, удовлетворяющие всем поставленным условиям. <Пробел> имеет более высокий приоритет.|
 |3       |<_>               |Логическое вычитание.                |Исключает из области поиска данные, содержащие вычитаемую информацию.|
 |4       |<(>, <)>          |Группирующий оператор.               |Повышает приоритет логического подвыражения.
@@ -967,9 +967,9 @@
 
 С помощью кнопок визуального редактора можно выполнить следующие действия:
 
-- ![](https://github.com/citoruspm/kedr/blob/master/karta_22.png?raw=true)  – отобразить на карте координатную сетку.<br><br><center>![](https://github.com/citoruspm/kedr/blob/master/karta_23.png?raw=true "Рисунок 62 – Меню инструментов")</center><br><center><small>Рисунок 62 – Меню инструментов</center></small>
+- ![](https://github.com/citoruspm/kedr/blob/master/karta_22.png?raw=true)  – отобразить на карте координатную сетку.<br><center>![](https://github.com/citoruspm/kedr/blob/master/karta_23.png?raw=true "Рисунок 62 – Меню инструментов")</center><br><center><small>Рисунок 62 – Меню инструментов</center></small><br>
 
-- ![](https://github.com/citoruspm/kedr/blob/master/karta_24.png?raw=true) – измерить расстояние от одной точки до другой линейкой.<br><br><center>![](https://github.com/citoruspm/kedr/blob/master/karta_25.png?raw=true "Рисунок 63 – Линейка")</center><br><center><small>Рисунок 63 – Линейка</center></small>
+- ![](https://github.com/citoruspm/kedr/blob/master/karta_24.png?raw=true) – измерить расстояние от одной точки до другой линейкой.<br><center>![](https://github.com/citoruspm/kedr/blob/master/karta_25.png?raw=true "Рисунок 63 – Линейка")</center><br><center><small>Рисунок 63 – Линейка</center></small><br>
 
 - Нарисовать объект: полигон ![](https://github.com/citoruspm/kedr/blob/master/karta_26.png?raw=true) или линию ![](https://github.com/citoruspm/kedr/blob/master/karta_27.png?raw=true) – и создать карточку данного объекта.
 

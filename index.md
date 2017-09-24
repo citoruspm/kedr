@@ -921,7 +921,8 @@
     
     - **Космические снимки среднего разрешения** – в данной группе слоев содержатся композиты (мозаики), созданные на базе спутниковых снимков среднего разрешения.
     
-    - **Лесные пожары** – данная группа слоев содержит векторные точки лесных пожаров, произошедших за последние 2-3 года, и границы сгоревших территорий.<br><br><center>![](https://github.com/citoruspm/kedr/blob/master/karta_16.png?raw=true "Рисунок 57 – Группа слоев Блок ориентирования")</center><br><center><small>Рисунок 57 – Группа слоев **Блок ориентирования**</center></small><br>
+    - **Лесные пожары** – данная группа слоев содержит векторные точки лесных пожаров, произошедших за последние 2-3 года, и границы сгоревших территорий.<br><br><center>![](https://github.com/citoruspm/kedr/blob/master/karta_16.png?raw=true "Рисунок 57 – Группа слоев Блок ориентирования")</center><br><center><small>Рисунок 57 – Группа слоев **Блок ориентирования**</center></small>
+    
 3. Блок принятия решений (рис. 58):
     - **Категории земель** – при включении слоев данной группы на карте отображаются кадастровая карта Росреестра и границы лесного фонда.
     
@@ -966,19 +967,19 @@
 
 С помощью кнопок визуального редактора можно выполнить следующие действия:
 
-- ![](https://github.com/citoruspm/kedr/blob/master/karta_22.png?raw=true)  – отобразить на карте координатную сетку.
+    - ![](https://github.com/citoruspm/kedr/blob/master/karta_22.png?raw=true)  – отобразить на карте координатную сетку.
 
 <center>![](https://github.com/citoruspm/kedr/blob/master/karta_23.png?raw=true "Рисунок 62 – Меню инструментов")</center>
 
 <center><small>Рисунок 62 – Меню инструментов</center></small>
 
-- ![](https://github.com/citoruspm/kedr/blob/master/karta_24.png?raw=true) – измерить расстояние от одной точки до другой линейкой.
+    - ![](https://github.com/citoruspm/kedr/blob/master/karta_24.png?raw=true) – измерить расстояние от одной точки до другой линейкой.
 
 <center>![](https://github.com/citoruspm/kedr/blob/master/karta_25.png?raw=true "Рисунок 63 – Линейка")</center>
 
 <center><small>Рисунок 63 – Линейка</center></small>
 
-- Нарисовать объект: полигон ![](https://github.com/citoruspm/kedr/blob/master/karta_26.png?raw=true) или линию ![](https://github.com/citoruspm/kedr/blob/master/karta_27.png?raw=true) – и создать карточку данного объекта.
+    - Нарисовать объект: полигон ![](https://github.com/citoruspm/kedr/blob/master/karta_26.png?raw=true) или линию ![](https://github.com/citoruspm/kedr/blob/master/karta_27.png?raw=true) – и создать карточку данного объекта.
 
 Чтобы нарисовать полигон, нажмите на кнопку ![](https://github.com/citoruspm/kedr/blob/master/karta_26.png?raw=true). Щелчками мыши по карте установите три крайние точки полигона. Затем нажмите на точку полигона, которая была установлена первой. В центре полигона отобразится маркер со всплывающим окном, в котором содержится ссылка для перехода в карточку нарисованного объекта (рис. 64).
 

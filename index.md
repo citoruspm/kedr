@@ -967,19 +967,11 @@
 
 С помощью кнопок визуального редактора можно выполнить следующие действия:
 
-    - ![](https://github.com/citoruspm/kedr/blob/master/karta_22.png?raw=true)  – отобразить на карте координатную сетку.
+- ![](https://github.com/citoruspm/kedr/blob/master/karta_22.png?raw=true)  – отобразить на карте координатную сетку.<br><br><center>![](https://github.com/citoruspm/kedr/blob/master/karta_23.png?raw=true "Рисунок 62 – Меню инструментов")</center><br><center><small>Рисунок 62 – Меню инструментов</center></small>
 
-<center>![](https://github.com/citoruspm/kedr/blob/master/karta_23.png?raw=true "Рисунок 62 – Меню инструментов")</center>
+- ![](https://github.com/citoruspm/kedr/blob/master/karta_24.png?raw=true) – измерить расстояние от одной точки до другой линейкой.<br><br><center>![](https://github.com/citoruspm/kedr/blob/master/karta_25.png?raw=true "Рисунок 63 – Линейка")</center><br><center><small>Рисунок 63 – Линейка</center></small>
 
-<center><small>Рисунок 62 – Меню инструментов</center></small>
-
-    - ![](https://github.com/citoruspm/kedr/blob/master/karta_24.png?raw=true) – измерить расстояние от одной точки до другой линейкой.
-
-<center>![](https://github.com/citoruspm/kedr/blob/master/karta_25.png?raw=true "Рисунок 63 – Линейка")</center>
-
-<center><small>Рисунок 63 – Линейка</center></small>
-
-    - Нарисовать объект: полигон ![](https://github.com/citoruspm/kedr/blob/master/karta_26.png?raw=true) или линию ![](https://github.com/citoruspm/kedr/blob/master/karta_27.png?raw=true) – и создать карточку данного объекта.
+- Нарисовать объект: полигон ![](https://github.com/citoruspm/kedr/blob/master/karta_26.png?raw=true) или линию ![](https://github.com/citoruspm/kedr/blob/master/karta_27.png?raw=true) – и создать карточку данного объекта.
 
 Чтобы нарисовать полигон, нажмите на кнопку ![](https://github.com/citoruspm/kedr/blob/master/karta_26.png?raw=true). Щелчками мыши по карте установите три крайние точки полигона. Затем нажмите на точку полигона, которая была установлена первой. В центре полигона отобразится маркер со всплывающим окном, в котором содержится ссылка для перехода в карточку нарисованного объекта (рис. 64).
 
